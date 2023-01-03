@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5785E7B8-ECF3-4729-8C0A-B55DD35D28CB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="fsd-cs-OOP1/Program.cs">
+    <Files>
+      <File FileName="fsd-cs-OOP1/Program.cs" Line="20" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="fsd-cs-OOP1" expanded="True">
+            <Node name="fsd-cs-OOP1" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.fsd-cs-OOP1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

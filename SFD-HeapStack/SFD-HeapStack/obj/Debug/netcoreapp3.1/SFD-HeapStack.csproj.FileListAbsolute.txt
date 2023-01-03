@@ -1,0 +1,13 @@
+/Users/Zia/Projects/SFD-HeapStack/SFD-HeapStack/bin/Debug/netcoreapp3.1/SFD-HeapStack.deps.json
+/Users/Zia/Projects/SFD-HeapStack/SFD-HeapStack/bin/Debug/netcoreapp3.1/SFD-HeapStack.runtimeconfig.json
+/Users/Zia/Projects/SFD-HeapStack/SFD-HeapStack/bin/Debug/netcoreapp3.1/SFD-HeapStack.runtimeconfig.dev.json
+/Users/Zia/Projects/SFD-HeapStack/SFD-HeapStack/bin/Debug/netcoreapp3.1/SFD-HeapStack.dll
+/Users/Zia/Projects/SFD-HeapStack/SFD-HeapStack/bin/Debug/netcoreapp3.1/SFD-HeapStack.pdb
+/Users/Zia/Projects/SFD-HeapStack/SFD-HeapStack/obj/Debug/netcoreapp3.1/SFD-HeapStack.csproj.AssemblyReference.cache
+/Users/Zia/Projects/SFD-HeapStack/SFD-HeapStack/obj/Debug/netcoreapp3.1/SFD-HeapStack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Zia/Projects/SFD-HeapStack/SFD-HeapStack/obj/Debug/netcoreapp3.1/SFD-HeapStack.AssemblyInfoInputs.cache
+/Users/Zia/Projects/SFD-HeapStack/SFD-HeapStack/obj/Debug/netcoreapp3.1/SFD-HeapStack.AssemblyInfo.cs
+/Users/Zia/Projects/SFD-HeapStack/SFD-HeapStack/obj/Debug/netcoreapp3.1/SFD-HeapStack.csproj.CoreCompileInputs.cache
+/Users/Zia/Projects/SFD-HeapStack/SFD-HeapStack/obj/Debug/netcoreapp3.1/SFD-HeapStack.dll
+/Users/Zia/Projects/SFD-HeapStack/SFD-HeapStack/obj/Debug/netcoreapp3.1/SFD-HeapStack.pdb
+/Users/Zia/Projects/SFD-HeapStack/SFD-HeapStack/obj/Debug/netcoreapp3.1/SFD-HeapStack.genruntimeconfig.cache

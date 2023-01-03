@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{981967EC-8FDE-43AF-B743-340C1F98FB0E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="winform1/Form1.cs">
+    <Files>
+      <File FileName="winform1/Form1.cs" Line="13" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="winform1" expanded="True" selected="True">
+            <Node name="winform1" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.winform1 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,13 @@
+/Users/Zia/Projects/MyProject/MyProject/bin/Debug/netcoreapp3.1/MyProject.deps.json
+/Users/Zia/Projects/MyProject/MyProject/bin/Debug/netcoreapp3.1/MyProject.runtimeconfig.json
+/Users/Zia/Projects/MyProject/MyProject/bin/Debug/netcoreapp3.1/MyProject.runtimeconfig.dev.json
+/Users/Zia/Projects/MyProject/MyProject/bin/Debug/netcoreapp3.1/MyProject.dll
+/Users/Zia/Projects/MyProject/MyProject/bin/Debug/netcoreapp3.1/MyProject.pdb
+/Users/Zia/Projects/MyProject/MyProject/obj/Debug/netcoreapp3.1/MyProject.csproj.AssemblyReference.cache
+/Users/Zia/Projects/MyProject/MyProject/obj/Debug/netcoreapp3.1/MyProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Zia/Projects/MyProject/MyProject/obj/Debug/netcoreapp3.1/MyProject.AssemblyInfoInputs.cache
+/Users/Zia/Projects/MyProject/MyProject/obj/Debug/netcoreapp3.1/MyProject.AssemblyInfo.cs
+/Users/Zia/Projects/MyProject/MyProject/obj/Debug/netcoreapp3.1/MyProject.csproj.CoreCompileInputs.cache
+/Users/Zia/Projects/MyProject/MyProject/obj/Debug/netcoreapp3.1/MyProject.dll
+/Users/Zia/Projects/MyProject/MyProject/obj/Debug/netcoreapp3.1/MyProject.pdb
+/Users/Zia/Projects/MyProject/MyProject/obj/Debug/netcoreapp3.1/MyProject.genruntimeconfig.cache

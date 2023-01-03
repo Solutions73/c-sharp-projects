@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zu8F5u8QUdRAVnGS14wlCbXXDlkoexz1cFEsomDgKwaxQ9U+D6fPHlxRofHgYyL4uVpj1MC3c6iHnybUUzZGYQ==",
+  "success": true,
+  "projectFilePath": "/Users/Zia/Projects/MyTabbedApp/MyTabbedApp.iOS/MyTabbedApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/Zia/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/Zia/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/Zia/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

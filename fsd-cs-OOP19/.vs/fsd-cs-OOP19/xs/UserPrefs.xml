@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{C1B45EBD-2E43-4C16-8D6A-FB5B935E5E4B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="fsd-cs-OOP19/Program.cs">
+    <Files>
+      <File FileName="fsd-cs-OOP19/Program.cs" Line="22" Column="45" />
+      <File FileName="books.xml" Line="8" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.fsd-cs-OOP19 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

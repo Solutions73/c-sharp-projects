@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NIoEPJcSEH1ax2iWNBcRH3ih4BvISk1fSVVt4fW6Yd0RC8QeWBbCE8NGyy3Nr6yMq+3Q3GwF5zHevBBqgEBYRA==",
+  "success": true,
+  "projectFilePath": "/Users/Zia/Projects/appapp/appapp/appapp.csproj",
+  "expectedPackageFiles": [
+    "/Users/Zia/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/Zia/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{81962C81-D0FE-464F-880C-0197AFBBD40A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SDF-2Ex1/MainClass.cs">
+    <Files>
+      <File FileName="SDF-2Ex1/MainClass.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SDF-2Ex1 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

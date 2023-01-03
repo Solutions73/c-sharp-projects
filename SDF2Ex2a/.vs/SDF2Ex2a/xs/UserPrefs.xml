@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{23EC88C4-09A6-4A35-AD27-E85030B2130C}|Default">
+  <MonoDevelop.Ide.ItemProperties.SDF2Ex2a PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SDF2Ex2a/Program.cs">
+    <Files>
+      <File FileName="SDF2Ex2a/Program.cs" Line="12" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SDF2Ex2a" expanded="True" selected="True">
+            <Node name="SDF2Ex2a" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "umw8eEwAilccVg/ao69xaiUPPJECPvX2S7U3anm1HuepVk54ld4rgRT7tR88zz+Fh4bzhIAI5FZXXPNz8IYTQQ==",
+  "success": true,
+  "projectFilePath": "/Users/Zia/Projects/myApp123/myApp123/myApp123.csproj",
+  "expectedPackageFiles": [
+    "/Users/Zia/.nuget/packages/crmsolutionexplorer/1.2021.10.10/crmsolutionexplorer.1.2021.10.10.nupkg.sha512"
+  ],
+  "logs": []
+}

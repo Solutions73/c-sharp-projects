@@ -1,0 +1,5 @@
+/Users/Zia/Projects/CS-Lab2/CS-Lab2/obj/Debug/netcoreapp3.1/CS-Lab2.csproj.AssemblyReference.cache
+/Users/Zia/Projects/CS-Lab2/CS-Lab2/obj/Debug/netcoreapp3.1/CS-Lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Zia/Projects/CS-Lab2/CS-Lab2/obj/Debug/netcoreapp3.1/CS-Lab2.AssemblyInfoInputs.cache
+/Users/Zia/Projects/CS-Lab2/CS-Lab2/obj/Debug/netcoreapp3.1/CS-Lab2.AssemblyInfo.cs
+/Users/Zia/Projects/CS-Lab2/CS-Lab2/obj/Debug/netcoreapp3.1/CS-Lab2.csproj.CoreCompileInputs.cache

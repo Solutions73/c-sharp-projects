@@ -1,0 +1,13 @@
+/Users/Zia/Projects/fsd-cs-OOP14/fsd-cs-OOP14/bin/Debug/netcoreapp3.1/fsd-cs-OOP14.deps.json
+/Users/Zia/Projects/fsd-cs-OOP14/fsd-cs-OOP14/bin/Debug/netcoreapp3.1/fsd-cs-OOP14.runtimeconfig.json
+/Users/Zia/Projects/fsd-cs-OOP14/fsd-cs-OOP14/bin/Debug/netcoreapp3.1/fsd-cs-OOP14.runtimeconfig.dev.json
+/Users/Zia/Projects/fsd-cs-OOP14/fsd-cs-OOP14/bin/Debug/netcoreapp3.1/fsd-cs-OOP14.dll
+/Users/Zia/Projects/fsd-cs-OOP14/fsd-cs-OOP14/bin/Debug/netcoreapp3.1/fsd-cs-OOP14.pdb
+/Users/Zia/Projects/fsd-cs-OOP14/fsd-cs-OOP14/obj/Debug/netcoreapp3.1/fsd-cs-OOP14.csproj.AssemblyReference.cache
+/Users/Zia/Projects/fsd-cs-OOP14/fsd-cs-OOP14/obj/Debug/netcoreapp3.1/fsd-cs-OOP14.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Zia/Projects/fsd-cs-OOP14/fsd-cs-OOP14/obj/Debug/netcoreapp3.1/fsd-cs-OOP14.AssemblyInfoInputs.cache
+/Users/Zia/Projects/fsd-cs-OOP14/fsd-cs-OOP14/obj/Debug/netcoreapp3.1/fsd-cs-OOP14.AssemblyInfo.cs
+/Users/Zia/Projects/fsd-cs-OOP14/fsd-cs-OOP14/obj/Debug/netcoreapp3.1/fsd-cs-OOP14.csproj.CoreCompileInputs.cache
+/Users/Zia/Projects/fsd-cs-OOP14/fsd-cs-OOP14/obj/Debug/netcoreapp3.1/fsd-cs-OOP14.dll
+/Users/Zia/Projects/fsd-cs-OOP14/fsd-cs-OOP14/obj/Debug/netcoreapp3.1/fsd-cs-OOP14.pdb
+/Users/Zia/Projects/fsd-cs-OOP14/fsd-cs-OOP14/obj/Debug/netcoreapp3.1/fsd-cs-OOP14.genruntimeconfig.cache

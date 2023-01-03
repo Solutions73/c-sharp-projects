@@ -1,0 +1,6 @@
+/Users/Zia/Projects/MyFirstApp/MyFirstApp/bin/MyFirstApp.dll
+/Users/Zia/Projects/MyFirstApp/MyFirstApp/bin/MyFirstApp.pdb
+/Users/Zia/Projects/MyFirstApp/MyFirstApp/obj/Debug/MyFirstApp.csprojAssemblyReference.cache
+/Users/Zia/Projects/MyFirstApp/MyFirstApp/obj/Debug/MyFirstApp.csproj.CoreCompileInputs.cache
+/Users/Zia/Projects/MyFirstApp/MyFirstApp/obj/Debug/MyFirstApp.dll
+/Users/Zia/Projects/MyFirstApp/MyFirstApp/obj/Debug/MyFirstApp.pdb

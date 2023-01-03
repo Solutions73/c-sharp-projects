@@ -1,0 +1,16 @@
+/Users/Zia/Projects/FormApp/FormApp/bin/Debug/FormApp.exe
+/Users/Zia/Projects/FormApp/FormApp/bin/Debug/FormApp.pdb
+/Users/Zia/Projects/FormApp/FormApp/obj/Debug/actool/_PartialAppManifest.items
+/Users/Zia/Projects/FormApp/FormApp/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/Zia/Projects/FormApp/FormApp/obj/Debug/actool/_ProcessedImageAssetsPath.items
+/Users/Zia/Projects/FormApp/FormApp/obj/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/Zia/Projects/FormApp/FormApp/obj/Debug/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/Zia/Projects/FormApp/FormApp/obj/Debug/coremlc/_PartialAppManifest.items
+/Users/Zia/Projects/FormApp/FormApp/obj/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/Zia/Projects/FormApp/FormApp/obj/Debug/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/Zia/Projects/FormApp/FormApp/obj/Debug/_ProcessedBundleResourcesPath.items
+/Users/Zia/Projects/FormApp/FormApp/obj/Debug/_ProcessedContentPath.items
+/Users/Zia/Projects/FormApp/FormApp/obj/Debug/FormApp.csproj.AssemblyReference.cache
+/Users/Zia/Projects/FormApp/FormApp/obj/Debug/FormApp.csproj.CoreCompileInputs.cache
+/Users/Zia/Projects/FormApp/FormApp/obj/Debug/FormApp.exe
+/Users/Zia/Projects/FormApp/FormApp/obj/Debug/FormApp.pdb

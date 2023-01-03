@@ -1,0 +1,13 @@
+/Users/Zia/Projects/SDF2Ex3/SDF2Ex3/bin/Debug/netcoreapp3.1/SDF2Ex3.deps.json
+/Users/Zia/Projects/SDF2Ex3/SDF2Ex3/bin/Debug/netcoreapp3.1/SDF2Ex3.runtimeconfig.json
+/Users/Zia/Projects/SDF2Ex3/SDF2Ex3/bin/Debug/netcoreapp3.1/SDF2Ex3.runtimeconfig.dev.json
+/Users/Zia/Projects/SDF2Ex3/SDF2Ex3/bin/Debug/netcoreapp3.1/SDF2Ex3.dll
+/Users/Zia/Projects/SDF2Ex3/SDF2Ex3/bin/Debug/netcoreapp3.1/SDF2Ex3.pdb
+/Users/Zia/Projects/SDF2Ex3/SDF2Ex3/obj/Debug/netcoreapp3.1/SDF2Ex3.csproj.AssemblyReference.cache
+/Users/Zia/Projects/SDF2Ex3/SDF2Ex3/obj/Debug/netcoreapp3.1/SDF2Ex3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Zia/Projects/SDF2Ex3/SDF2Ex3/obj/Debug/netcoreapp3.1/SDF2Ex3.AssemblyInfoInputs.cache
+/Users/Zia/Projects/SDF2Ex3/SDF2Ex3/obj/Debug/netcoreapp3.1/SDF2Ex3.AssemblyInfo.cs
+/Users/Zia/Projects/SDF2Ex3/SDF2Ex3/obj/Debug/netcoreapp3.1/SDF2Ex3.csproj.CoreCompileInputs.cache
+/Users/Zia/Projects/SDF2Ex3/SDF2Ex3/obj/Debug/netcoreapp3.1/SDF2Ex3.dll
+/Users/Zia/Projects/SDF2Ex3/SDF2Ex3/obj/Debug/netcoreapp3.1/SDF2Ex3.pdb
+/Users/Zia/Projects/SDF2Ex3/SDF2Ex3/obj/Debug/netcoreapp3.1/SDF2Ex3.genruntimeconfig.cache

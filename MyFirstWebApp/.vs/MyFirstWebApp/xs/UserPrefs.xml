@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{DD6743EF-1EA7-4E2A-9488-4D87E72555BF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Documents/MyFirstPage.cs">
+    <Files>
+      <File FileName="../../Documents/MyFirstPage.cs" Line="28" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MyFirstWebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

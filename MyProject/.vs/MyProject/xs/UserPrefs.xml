@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{1D68A74E-86B6-4FC7-9072-E94BEE7B4CA1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyProject/exercise2.cs">
+    <Files>
+      <File FileName="MyProject/recursion.cs" Line="13" Column="10" />
+      <File FileName="MyProject/exceptionHandling.cs" />
+      <File FileName="MyProject/userInput.cs" />
+      <File FileName="MyProject/randomizationintro.cs" />
+      <File FileName="MyProject/randListNums.cs" />
+      <File FileName="MyProject/sortAlgorithms.cs" />
+      <File FileName="MyProject/quickSort.cs" />
+      <File FileName="MyProject/readDispFiles.cs" />
+      <File FileName="MyProject/createFileWriteData.cs" Line="13" Column="10" />
+      <File FileName="MyProject/exercise2.cs" Line="30" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyProject" expanded="True">
+            <Node name="MyProject" expanded="True">
+              <Node name="exercise2.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MyProject PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

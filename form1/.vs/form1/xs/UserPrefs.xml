@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{F356374C-5170-4907-92DB-6C9D32DEF4FC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="form1/MainPage.xaml">
+    <Files>
+      <File FileName="form1/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="form1/MainPage.xaml" Line="7" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.form1.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.form1 FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.form1.Android FirstBuild="True" PreferredExecutionTarget="Android.Zia_Phone" />
+</Properties>

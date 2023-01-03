@@ -1,0 +1,6 @@
+/Users/Zia/Projects/SDF2Ex2a/SDF2Ex2a/bin/Debug/SDF2Ex2a.exe
+/Users/Zia/Projects/SDF2Ex2a/SDF2Ex2a/bin/Debug/SDF2Ex2a.pdb
+/Users/Zia/Projects/SDF2Ex2a/SDF2Ex2a/obj/Debug/SDF2Ex2a.csproj.AssemblyReference.cache
+/Users/Zia/Projects/SDF2Ex2a/SDF2Ex2a/obj/Debug/SDF2Ex2a.csproj.CoreCompileInputs.cache
+/Users/Zia/Projects/SDF2Ex2a/SDF2Ex2a/obj/Debug/SDF2Ex2a.exe
+/Users/Zia/Projects/SDF2Ex2a/SDF2Ex2a/obj/Debug/SDF2Ex2a.pdb

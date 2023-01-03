@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{1B3CDE22-4190-457A-852C-17437E3FE335}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmptyHtmlFile.html">
+    <Files>
+      <File FileName="EmptyHtmlFile.html" Line="23" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.fsd-cs-OOP16 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

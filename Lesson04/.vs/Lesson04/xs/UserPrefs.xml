@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{CCB85C56-883F-40C4-BD87-246BDA811861}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PageEvents/Default.aspx">
+    <Files>
+      <File FileName="PageEvents/Default.aspx" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lesson04" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PageEvents.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PageEvents FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

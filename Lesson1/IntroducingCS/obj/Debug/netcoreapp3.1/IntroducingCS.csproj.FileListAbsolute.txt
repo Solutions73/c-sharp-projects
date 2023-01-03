@@ -1,0 +1,12 @@
+/Users/Zia/Projects/Lesson1/IntroducingCS/bin/Debug/netcoreapp3.1/IntroducingCS.deps.json
+/Users/Zia/Projects/Lesson1/IntroducingCS/bin/Debug/netcoreapp3.1/IntroducingCS.runtimeconfig.json
+/Users/Zia/Projects/Lesson1/IntroducingCS/bin/Debug/netcoreapp3.1/IntroducingCS.runtimeconfig.dev.json
+/Users/Zia/Projects/Lesson1/IntroducingCS/bin/Debug/netcoreapp3.1/IntroducingCS.dll
+/Users/Zia/Projects/Lesson1/IntroducingCS/bin/Debug/netcoreapp3.1/IntroducingCS.pdb
+/Users/Zia/Projects/Lesson1/IntroducingCS/obj/Debug/netcoreapp3.1/IntroducingCS.csprojAssemblyReference.cache
+/Users/Zia/Projects/Lesson1/IntroducingCS/obj/Debug/netcoreapp3.1/IntroducingCS.AssemblyInfoInputs.cache
+/Users/Zia/Projects/Lesson1/IntroducingCS/obj/Debug/netcoreapp3.1/IntroducingCS.AssemblyInfo.cs
+/Users/Zia/Projects/Lesson1/IntroducingCS/obj/Debug/netcoreapp3.1/IntroducingCS.csproj.CoreCompileInputs.cache
+/Users/Zia/Projects/Lesson1/IntroducingCS/obj/Debug/netcoreapp3.1/IntroducingCS.dll
+/Users/Zia/Projects/Lesson1/IntroducingCS/obj/Debug/netcoreapp3.1/IntroducingCS.pdb
+/Users/Zia/Projects/Lesson1/IntroducingCS/obj/Debug/netcoreapp3.1/IntroducingCS.genruntimeconfig.cache

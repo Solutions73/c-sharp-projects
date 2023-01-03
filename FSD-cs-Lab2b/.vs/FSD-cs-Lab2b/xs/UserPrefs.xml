@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{DFA1B1D7-B2B7-45EA-920C-9C05CA99D940}|Default">
+  <MonoDevelop.Ide.ItemProperties.FSD-cs-Lab2b FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FSD-cs-Lab2b/Program.cs">
+    <Files>
+      <File FileName="FSD-cs-Lab2b/Program.cs" Line="16" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

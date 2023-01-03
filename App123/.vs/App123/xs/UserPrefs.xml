@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{D3381EE4-7194-466B-9464-A2C1E5E40C1D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="App123/Program.cs">
+    <Files>
+      <File FileName="App123/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="App123" expanded="True">
+            <Node name="App123" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.App123 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

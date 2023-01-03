@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroducingCS", "IntroducingCS\IntroducingCS.csproj", "{0123AB24-0A62-46D9-AA6F-A0621B8BFDEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0123AB24-0A62-46D9-AA6F-A0621B8BFDEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0123AB24-0A62-46D9-AA6F-A0621B8BFDEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0123AB24-0A62-46D9-AA6F-A0621B8BFDEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0123AB24-0A62-46D9-AA6F-A0621B8BFDEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7028379D-7AEA-46FB-B60E-A3386C68C8B1}
+	EndGlobalSection
+EndGlobal

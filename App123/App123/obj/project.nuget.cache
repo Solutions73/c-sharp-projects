@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XGaA0yPzALqr1B3y6X5rQv4b9Gm2YVPfxk7pV2hYUvSI1vdCEtQeGEncMVC6ACXu5FpSjRZED71ICe38HsUwIw==",
+  "success": true,
+  "projectFilePath": "/Users/Zia/Projects/App123/App123/App123.csproj",
+  "expectedPackageFiles": [
+    "/Users/Zia/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.12/microsoft.netcore.app.host.osx-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

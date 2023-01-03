@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.17
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "windowservice", "windowservice\windowservice.csproj", "{FD0F3EA0-B446-4C92-8F26-B6A226AC09D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD0F3EA0-B446-4C92-8F26-B6A226AC09D3}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{FD0F3EA0-B446-4C92-8F26-B6A226AC09D3}.Debug|anycpu.Build.0 = Debug|anycpu
+		{FD0F3EA0-B446-4C92-8F26-B6A226AC09D3}.Release|anycpu.ActiveCfg = Release|anycpu
+		{FD0F3EA0-B446-4C92-8F26-B6A226AC09D3}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {322F060E-0838-4C9A-9BDF-98E3BE696E89}
+	EndGlobalSection
+EndGlobal

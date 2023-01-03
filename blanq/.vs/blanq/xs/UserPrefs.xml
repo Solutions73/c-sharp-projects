@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{D170E141-1D32-4D48-BA8B-F400169122FA}|Default">
+  <MonoDevelop.Ide.ItemProperties.blanq.Android FirstBuild="True" PreferredExecutionTarget="Android.Zia_Phone" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="blanq/MainPage.xaml">
+    <Files>
+      <File FileName="blanq/App.xaml" Line="1" Column="1" />
+      <File FileName="blanq/AssemblyInfo.cs" />
+      <File FileName="blanq/MainPage.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="blanq" expanded="True" selected="True">
+            <Node name="blanq" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.blanq FirstBuild="True" />
+</Properties>

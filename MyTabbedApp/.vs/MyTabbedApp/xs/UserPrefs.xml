@@ -1,0 +1,12 @@
+﻿<Properties StartupConfiguration="{A0C056B3-393F-4CBB-A14E-577DA33F604B}|Default">
+  <MonoDevelop.Ide.ItemProperties.MyTabbedApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MyTabbedApp.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MyTabbedApp FirstBuild="True" />
+</Properties>
